@@ -1,6 +1,8 @@
 ## Interface: 20501
 ## Author: Catreina
 ## Version: 0.01a
-## Title: |cFF66FFCCCatreina's|r |cFFFF99FFCartographer|r |c66FFFFFF(v0.1 alpha)|r
+## Title: |cFF66FFCCCatreina's|r |cFFFF99FFCartographer|r |c66FFFFFF(v0.01 alpha)|r
 ## Notes: A new Cartographer for Classic and TBC Classic
 ## SavedVariables: CatsCart
+
+Init.lua
